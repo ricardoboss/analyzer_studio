@@ -1,0 +1,40 @@
+PODS:
+  - flutter_acrylic (0.1.0):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - screen_retriever (0.0.1):
+    - FlutterMacOS
+  - system_theme (0.0.1):
+    - FlutterMacOS
+  - window_manager (0.2.0):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - flutter_acrylic (from `Flutter/ephemeral/.symlinks/plugins/flutter_acrylic/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - screen_retriever (from `Flutter/ephemeral/.symlinks/plugins/screen_retriever/macos`)
+  - system_theme (from `Flutter/ephemeral/.symlinks/plugins/system_theme/macos`)
+  - window_manager (from `Flutter/ephemeral/.symlinks/plugins/window_manager/macos`)
+
+EXTERNAL SOURCES:
+  flutter_acrylic:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_acrylic/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  screen_retriever:
+    :path: Flutter/ephemeral/.symlinks/plugins/screen_retriever/macos
+  system_theme:
+    :path: Flutter/ephemeral/.symlinks/plugins/system_theme/macos
+  window_manager:
+    :path: Flutter/ephemeral/.symlinks/plugins/window_manager/macos
+
+SPEC CHECKSUMS:
+  flutter_acrylic: c3df24ae52ab6597197837ce59ef2a8542640c17
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  screen_retriever: 59634572a57080243dd1bf715e55b6c54f241a38
+  system_theme: c7b9f6659a5caa26c9bc2284da096781e9a6fcbc
+  window_manager: 3a1844359a6295ab1e47659b1a777e36773cd6e8
+
+PODFILE CHECKSUM: 353c8bcc5d5b0994e508d035b5431cfe18c1dea7
+
+COCOAPODS: 1.12.0
